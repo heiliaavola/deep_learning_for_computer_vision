@@ -1,1 +1,1 @@
-# deep_learning_for_computer_vision
+# Deep Learning for Computer Vision
